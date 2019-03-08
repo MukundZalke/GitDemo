@@ -38,4 +38,11 @@ public class RESTAPITest {
 		System.out.println("deleteTwitter");	
 
 	}
+	@Test
+	public void devlopFramework()
+	{
+		System.out.println("deleteTwitter");	
+		System.out.println("deleteTwitter");	
+
+	}
 }
