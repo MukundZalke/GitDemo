@@ -1,12 +1,13 @@
 package qaclickacademy;
 
 import org.testng.annotations.Test;
-//rahulonlinetutor@gmail.com
 public class RESTAPITest {
 
 	@Test
 	public void postJira()
 	{
+		System.out.println("postJira");
+		//CHANGES IN INDIAN TIME
 		System.out.println("postJira");
 	}
 	
