@@ -1,0 +1,9 @@
+Alphabets
+A
+B
+C
+
+Numbers
+1
+2
+3
