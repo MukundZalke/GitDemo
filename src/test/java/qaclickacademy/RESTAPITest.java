@@ -42,7 +42,7 @@ public class RESTAPITest {
 	public void devlopFramework()
 	{
 		System.out.println("deleteTwitter");	
-		System.out.println("deleteTwitter");
+		System.out.println("deleteTwitterNew");
 		//changes in indian time
 		
 
