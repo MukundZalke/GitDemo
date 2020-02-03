@@ -35,18 +35,19 @@ public class RESTAPITest {
 	public void devlopFrameworkforTwitter()
 	{
 		System.out.println("deleteTwitter");	
-		System.out.println("deleteTwitter");	
+<<<<<<< HEAD
+		System.out.println("deleteWhatsappNew");
+=======
+		System.out.println("deleteWhatsappOld");
+>>>>>>> 137fd3868b81c4643f10149bde13145200d314cb
+		//new commit
 
 	}
 	@Test
 	public void devlopFramework()
 	{
 		System.out.println("deleteTwitter");	
-<<<<<<< HEAD
 		System.out.println("deleteTwitterNew");
-=======
-		System.out.println("delete");
->>>>>>> d7f3396fbaa0126a68d085af9b1fce51f8f722b2
 		//changes in indian time
 		
 
