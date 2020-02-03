@@ -12,6 +12,7 @@ public class AppiumTest {
 	@Test
 	public void IOSApps()
 	{
+		//offshore commit message
 		System.out.println("IOSApps");	
 	}
 }
