@@ -35,7 +35,7 @@ public class RESTAPITest {
 	public void devlopFrameworkforTwitter()
 	{
 		System.out.println("deleteTwitter");	
-		System.out.println("deleteTwitter");
+		System.out.println("deleteWhatsapp");
 		//new commit
 
 	}
